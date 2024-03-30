@@ -1,2 +1,3 @@
-# tadadak.io
-web typing practice program
+# Introduction
+
+This is the Program to test users' typing.

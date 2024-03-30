@@ -1,0 +1,11 @@
+/* Id Styling */
+
+#tadak-banner {
+  display: flex;
+  justify-content: space-around;
+
+  padding: 20px 0;
+  span {
+    font-size: 2.25rem;
+  }
+}
